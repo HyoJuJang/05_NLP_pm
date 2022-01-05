@@ -53,7 +53,8 @@ Focus	NNP
 일간경기	NNP
 인천신문	NNP
 일간스포츠	NNP
-일간투데이 중앙일보	NNP
+일간투데이	NNP
+중앙일보	NNP
 중도일보	NNP
 울산제일일보	NNP
 전기신문	NNP
@@ -117,7 +118,6 @@ SPORTS WORLD	NNP
 우리일보	NNP
 연합뉴스	NNP
 영남일보	NNP
-아시아일보	NNP
 뉴시스	NNP
 엠빅뉴스	NNP
 아이뉴스	NNP
